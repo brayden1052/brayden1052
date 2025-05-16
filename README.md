@@ -1,5 +1,5 @@
 ## 🚀 Check out my latest project live at [SpotShare.space](https://spotshare.space)
-A real-time marketplace for parking spots built with Vue.js, JHipster, PostgreSQL, and Google Maps API.
+A real-time marketplace for parking spots built with Vue.js, Java, PostgreSQL, and Google Maps API.
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -9,11 +9,11 @@ A real-time marketplace for parking spots built with Vue.js, JHipster, PostgreSQ
 
 ### 👋 Hi there!
 
-I'm **Brayden Newsom**, a recent graduate with a **B.S. in Computer Science and a Minor in Business** from the University of Utah 🎓.
+I'm **Brayden Newsom**, a recent graduate with a **B.S. in Computer Science** from the University of Utah 🎓.
 
 - 💼 I recently completed a Software Engineer Internship at **ThriftBooks**, where I built a Flask-based web application with Azure APIs and Elasticsearch.
 - 🌍 I build full-stack apps that solve real-world problems — from classroom management systems to smart parking platforms.
-- ⚙️ I enjoy working with modern tools and frameworks like **Vue.js, Elixir, PostgreSQL, Supabase, and AWS**.
+- ⚙️ I enjoy working with modern tools and frameworks like **Vue.js, C#, PostgreSQL, Supabase, and AWS**.
 
 ---
 
